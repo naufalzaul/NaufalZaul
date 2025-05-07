@@ -1,8 +1,8 @@
-## Hi I'm Naufal 🐳👋
+## Hi! I'm Naufal 🐳👋
 
 Welcome to my github profile !
 
-I'm a coder, designer, and freelancer.I'm currently starting my career as a software developer and fullstack developer. I am currently learning backend, deployment, and mobile development.
+I'm a coder, designer, and freelancer. I'm currently starting my career as a software developer and fullstack developer. I am currently learning backend, deployment, and mobile development.
 
 ### 🧑‍💻 Tech Stack
 
