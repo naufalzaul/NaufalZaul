@@ -12,11 +12,9 @@ I'm a coder, designer, and freelancer.I'm currently starting my career as a soft
 
 ![https://www.linkedin.com/in/naufalzaulkarim/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/naufalzaul/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-###
+### Playlist Favorite
 
 <br clear="both">
-
-<p style="text-align: center; font-size: 20px;">Playlist Favorite</p>
 
 <div align="center">
   <a href="https://open.spotify.com/user/315r5l4grgjshoyym5wlo43qnr7e">
@@ -24,11 +22,9 @@ I'm a coder, designer, and freelancer.I'm currently starting my career as a soft
   </a>
 </div>
 
-###
+### This is very interesting, let's play a game with me! 😍
 
 <br clear="both">
-
-<p style="text-align: center; font-size: 20px;">This is very interesting, let's play a game with me! 😍</p>
 
 <img src="https://raw.githubusercontent.com/naufalzaul/naufalzaul/output/snake.svg" alt="Snake animation" />
 
