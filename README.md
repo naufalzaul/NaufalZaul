@@ -16,11 +16,19 @@ I'm a coder, designer, and freelancer.I'm currently starting my career as a soft
 
 <br clear="both"><br clear="both">
 
+<p align="center">My Playlist Favorite</p>
+
 <center>
 
 ### **My Playlist Favorite**
 
 </center>
+
+<div align="center">
+
+**<span>My Playlist Favorite</span>**
+
+</div>
 
 <div align="center">
   <a href="https://open.spotify.com/user/315r5l4grgjshoyym5wlo43qnr7e">
