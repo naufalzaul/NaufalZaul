@@ -18,7 +18,7 @@ I'm a coder, designer, and freelancer.I'm currently starting my career as a soft
 
 <div align="center">
 
-**<span style="font-size:25px;">My Playlist Favorite</span>**
+**<span style="font-size:30px;">My Playlist Favorite</span>**
 
 </div>
 
@@ -34,13 +34,13 @@ I'm a coder, designer, and freelancer.I'm currently starting my career as a soft
 
 <div align="center">
 
-**<span style="font-size:25px;">This is very interesting !!</span>**
+**<span style="font-size:30px;">This is very interesting !!</span>**
 
 </div>
 
 <div align="center">
 
-**<span style="font-size:25px;">🕹️ Let's play a game with me 🎮</span>**
+**<span style="font-size:30px;">🕹️ Let's play a game with me 🎮</span>**
 
 </div>
 
