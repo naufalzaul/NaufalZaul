@@ -16,17 +16,9 @@ I'm a coder, designer, and freelancer.I'm currently starting my career as a soft
 
 <br clear="both"><br clear="both">
 
-<p align="center">My Playlist Favorite</p>
-
-<center>
-
-### **My Playlist Favorite**
-
-</center>
-
 <div align="center">
 
-**<span>My Playlist Favorite</span>**
+**<span style="font-size:25px;">My Playlist Favorite</span>**
 
 </div>
 
@@ -40,13 +32,17 @@ I'm a coder, designer, and freelancer.I'm currently starting my career as a soft
 
 <br clear="both">
 
-<center>
+<div align="center">
 
-### **This is very interesting !!**
+**<span style="font-size:25px;">This is very interesting !!</span>**
 
-### **🕹️ Let's play a game with me 🎮**
+</div>
 
-</center>
+<div align="center">
+
+**<span style="font-size:25px;">🕹️ Let's play a game with me 🎮</span>**
+
+</div>
 
 <img src="https://raw.githubusercontent.com/naufalzaul/naufalzaul/output/snake.svg" alt="Snake animation" />
 
