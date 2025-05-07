@@ -11,3 +11,21 @@ I'm a coder, designer, and freelancer.I'm currently starting my career as a soft
 ### Find me on
 
 ![https://www.linkedin.com/in/naufalzaulkarim/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/naufalzaul/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+<p align="left">This is very interesting, let's play a game with me.</p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/naufalzaul/naufalzaul/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/315r5l4grgjshoyym5wlo43qnr7e">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315r5l4grgjshoyym5wlo43qnr7e&count=2&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
